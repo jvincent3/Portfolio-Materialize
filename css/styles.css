@@ -1,0 +1,15 @@
+nav ul a,
+nav .brand-logo,
+nav div a i,
+footer  {
+  color: #444;
+}
+.parallax-container {
+	min-height:380px;
+	line-height:0;
+	height:auto;
+	
+}
+.parallax img {
+	z-index:-1;
+}
