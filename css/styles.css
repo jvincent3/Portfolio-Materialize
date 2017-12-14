@@ -39,3 +39,9 @@ hr {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.parallax-container {
+    min-height:380px;
+    line-height:0;
+    height:auto;
+    
+}
