@@ -3,7 +3,9 @@ body {
     width: 100%;
 }
 
-nav ul a {
+nav ul a,
+nav .brand-logo,
+nav div a i{
     color: #444;
 
 }
@@ -15,11 +17,6 @@ nav ul a:hover {
     background-color: transparent;
     color: #e91e63;
 }
-
-nav .brand-logo, nav div a i {
-    color: #444;
-}
-
 
 hr {
     border: 0;
@@ -44,4 +41,4 @@ hr {
     line-height:0;
     height:auto;
     
-}
+
