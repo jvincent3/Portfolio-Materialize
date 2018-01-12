@@ -40,5 +40,8 @@ hr {
     min-height:380px;
     line-height:0;
     height:auto;
-    
-
+}
+.row div img {
+    width:100%;
+    height:auto;
+}
